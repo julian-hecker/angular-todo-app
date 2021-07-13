@@ -1,5 +1,7 @@
 # TodoApp
 
+This project is based on Brad Traversy's [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) Files found [here](https://github.com/bradtraversy/angular-crash-2021).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
